@@ -15,17 +15,18 @@ ADDED from C:\Users\Arpan\AndroidStudioProjects\Schedule\app\src\main\AndroidMan
 		INJECTED from C:\Users\Arpan\AndroidStudioProjects\Schedule\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\Arpan\AndroidStudioProjects\Schedule\app\src\main\AndroidManifest.xml:5:5-22:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\Arpan\.android\build-cache\dc99df7eba453863f7bc118c5f4cfad6a4a72064\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Arpan\.android\build-cache\db21786ce2836b57bddb664c7e5e80b8d5c4405e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Arpan\.android\build-cache\063661f703715dbeb654f2d85affa58e97d6afe6\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Arpan\.android\build-cache\3acacfe330e2723650b2b42647576893b401b401\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Arpan\.android\build-cache\d4b80d07ac81d5e305aa8e823a3e9e63873c24b0\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Arpan\.android\build-cache\dd19cc4cfc33d57e4adf16df99790aea48e0806e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Arpan\.android\build-cache\500b077f91b2c740605356b540005b8b83bbd4ad\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Arpan\.android\build-cache\707f2e2bfbc81d67e009d8ed0063f6570c126667\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Arpan\.android\build-cache\122a3c8ac84a229d9cd8a9f72897c0cf330910d2\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Arpan\.android\build-cache\94861ef4fd133719ed4b2c6ca06effbbec44b490\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Arpan\.android\build-cache\6d8585a266fdc22600cdca8dc3a73f25aeb08835\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\36fc6f07baa79d93205d82590f3421e793881532\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\8d87a02d466a5d9c284db20c6ed102efa4d8a93b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\c57adb461cd18ed9be3b390ea93c1da57d62305a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\65649fc30578577c18398b81c559e0bdfe0dc490\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\33f7d11d9882737c0a66b5d40c4645fe9f4cafe0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\b26bf7d88f0478885d116610ca76ad1c4e33db25\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\069b71ef5426505a0a39305a2f1be47b0d3673f4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\da8c3227add0544a8ae8473e5fa7fe974b91c31d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\6d315889136b88510980beba62d39fb399bd2839\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\8591e4f0f95fef99b6c56721dac6fa84d3d5124f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\eed83b324c2191a70ba1906f69f4112683e400af\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\ca382a710de3b3ec999f3f76c984ce1409104232\output\AndroidManifest.xml:26:5-20
 	android:label
 		ADDED from C:\Users\Arpan\AndroidStudioProjects\Schedule\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -58,20 +59,21 @@ ADDED from C:\Users\Arpan\AndroidStudioProjects\Schedule\app\src\main\AndroidMan
 		ADDED from C:\Users\Arpan\AndroidStudioProjects\Schedule\app\src\main\AndroidManifest.xml:19:27-74
 uses-sdk
 INJECTED from C:\Users\Arpan\AndroidStudioProjects\Schedule\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.3.1] C:\Users\Arpan\.android\build-cache\dc99df7eba453863f7bc118c5f4cfad6a4a72064\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Arpan\.android\build-cache\db21786ce2836b57bddb664c7e5e80b8d5c4405e\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Arpan\.android\build-cache\063661f703715dbeb654f2d85affa58e97d6afe6\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Arpan\.android\build-cache\3acacfe330e2723650b2b42647576893b401b401\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Arpan\.android\build-cache\78c8b8af6ed1266cb16b5c82984503faa1950512\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Arpan\.android\build-cache\d4b80d07ac81d5e305aa8e823a3e9e63873c24b0\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Arpan\.android\build-cache\dd19cc4cfc33d57e4adf16df99790aea48e0806e\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Arpan\.android\build-cache\500b077f91b2c740605356b540005b8b83bbd4ad\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Arpan\.android\build-cache\707f2e2bfbc81d67e009d8ed0063f6570c126667\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Arpan\.android\build-cache\122a3c8ac84a229d9cd8a9f72897c0cf330910d2\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Arpan\.android\build-cache\94861ef4fd133719ed4b2c6ca06effbbec44b490\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Arpan\.android\build-cache\6d8585a266fdc22600cdca8dc3a73f25aeb08835\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\36fc6f07baa79d93205d82590f3421e793881532\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\8d87a02d466a5d9c284db20c6ed102efa4d8a93b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\c57adb461cd18ed9be3b390ea93c1da57d62305a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\65649fc30578577c18398b81c559e0bdfe0dc490\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\94761bad7f5d648defeb7fdeec0707842c63739b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\33f7d11d9882737c0a66b5d40c4645fe9f4cafe0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\b26bf7d88f0478885d116610ca76ad1c4e33db25\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\069b71ef5426505a0a39305a2f1be47b0d3673f4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\da8c3227add0544a8ae8473e5fa7fe974b91c31d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\6d315889136b88510980beba62d39fb399bd2839\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\8591e4f0f95fef99b6c56721dac6fa84d3d5124f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\eed83b324c2191a70ba1906f69f4112683e400af\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\ca382a710de3b3ec999f3f76c984ce1409104232\output\AndroidManifest.xml:20:5-44
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Arpan\.android\build-cache\dc99df7eba453863f7bc118c5f4cfad6a4a72064\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\36fc6f07baa79d93205d82590f3421e793881532\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from C:\Users\Arpan\AndroidStudioProjects\Schedule\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Arpan\AndroidStudioProjects\Schedule\app\src\main\AndroidManifest.xml
@@ -79,19 +81,20 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Arpan\.android\
 		INJECTED from C:\Users\Arpan\AndroidStudioProjects\Schedule\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Arpan\AndroidStudioProjects\Schedule\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Arpan\.android\build-cache\dc99df7eba453863f7bc118c5f4cfad6a4a72064\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Arpan\.android\build-cache\db21786ce2836b57bddb664c7e5e80b8d5c4405e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Arpan\.android\build-cache\063661f703715dbeb654f2d85affa58e97d6afe6\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Arpan\.android\build-cache\3acacfe330e2723650b2b42647576893b401b401\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Arpan\.android\build-cache\78c8b8af6ed1266cb16b5c82984503faa1950512\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Arpan\.android\build-cache\d4b80d07ac81d5e305aa8e823a3e9e63873c24b0\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Arpan\.android\build-cache\dd19cc4cfc33d57e4adf16df99790aea48e0806e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Arpan\.android\build-cache\500b077f91b2c740605356b540005b8b83bbd4ad\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Arpan\.android\build-cache\707f2e2bfbc81d67e009d8ed0063f6570c126667\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Arpan\.android\build-cache\122a3c8ac84a229d9cd8a9f72897c0cf330910d2\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Arpan\.android\build-cache\94861ef4fd133719ed4b2c6ca06effbbec44b490\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Arpan\.android\build-cache\6d8585a266fdc22600cdca8dc3a73f25aeb08835\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\36fc6f07baa79d93205d82590f3421e793881532\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\8d87a02d466a5d9c284db20c6ed102efa4d8a93b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\c57adb461cd18ed9be3b390ea93c1da57d62305a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\65649fc30578577c18398b81c559e0bdfe0dc490\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\94761bad7f5d648defeb7fdeec0707842c63739b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\33f7d11d9882737c0a66b5d40c4645fe9f4cafe0\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\b26bf7d88f0478885d116610ca76ad1c4e33db25\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\069b71ef5426505a0a39305a2f1be47b0d3673f4\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\da8c3227add0544a8ae8473e5fa7fe974b91c31d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\6d315889136b88510980beba62d39fb399bd2839\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\8591e4f0f95fef99b6c56721dac6fa84d3d5124f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\eed83b324c2191a70ba1906f69f4112683e400af\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\ca382a710de3b3ec999f3f76c984ce1409104232\output\AndroidManifest.xml:22:5-24:41
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Arpan\.android\build-cache\dc99df7eba453863f7bc118c5f4cfad6a4a72064\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\36fc6f07baa79d93205d82590f3421e793881532\output\AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Arpan\.android\build-cache\dc99df7eba453863f7bc118c5f4cfad6a4a72064\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Arpan\.android\build-cache\36fc6f07baa79d93205d82590f3421e793881532\output\AndroidManifest.xml:26:9-47

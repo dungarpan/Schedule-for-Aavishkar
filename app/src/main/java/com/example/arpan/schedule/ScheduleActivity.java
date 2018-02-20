@@ -116,8 +116,12 @@ public class ScheduleActivity extends AppCompatActivity {
                 View rootView = inflater.inflate(R.layout.fragment_second, container, false);
                 return rootView;
             }
-            else{
+            else if(getArguments().getInt(ARG_SECTION_NUMBER) == 3) {
                 View rootView = inflater.inflate(R.layout.fragment_third, container, false);
+                return rootView;
+            }
+            else{
+                View rootView = inflater.inflate(R.layout.fragment_fourth, container, false);
                 return rootView;
             }
         }
@@ -143,18 +147,20 @@ public class ScheduleActivity extends AppCompatActivity {
         @Override
         public int getCount() {
             // Show 3 total pages.
-            return 3;
+            return 4;
         }
 
         @Override
         public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "SECTION 1";
+                    return "1st DAY";
                 case 1:
-                    return "SECTION 2";
+                    return "2nd DAY";
                 case 2:
-                    return "SECTION 3";
+                    return "3rd DAY";
+                case 3:
+                    return "4th DAY";
             }
             return null;
         }

@@ -1,4 +1,4 @@
-#Mon Feb 19 16:26:08 IST 2018
+#Tue Feb 20 18:26:44 IST 2018
 base.0=C\:\\Users\\Arpan\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 renamed.0=classes.dex
 file.0=C\:\\Users\\Arpan\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
