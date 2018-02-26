@@ -2,13 +2,13 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="24"
-    build-mode="HOT_WARM"
+    build-mode="COLD"
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1519211879729"
+    timestamp="1519585239366"
     token="2995061259450288149"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -23,13 +23,9 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="C:\Users\Arpan\AndroidStudioProjects\Schedule\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
-
     <build
         build-mode="FULL"
-        timestamp="1519211358094"
+        timestamp="1519582632964"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Arpan\AndroidStudioProjects\Schedule\app\build\outputs\apk\app-debug.apk"
@@ -70,19 +66,15 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1519211461251"
+        timestamp="1519584992723"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Arpan\AndroidStudioProjects\Schedule\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
-        build-mode="HOT_WARM"
-        timestamp="1519211879729"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\Users\Arpan\AndroidStudioProjects\Schedule\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-    </build>
+        build-mode="COLD"
+        timestamp="1519585239366"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

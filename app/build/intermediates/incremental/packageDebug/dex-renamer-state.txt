@@ -1,7 +1,7 @@
-#Wed Feb 21 16:41:02 IST 2018
-base.0=C\:\\Users\\Arpan\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0c3ccc82428db76d0ca59fc1b7bcafc347aba5b1
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Arpan\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_69319dbf174a6dad132d8a13cf26523e0f5eaf2b\\classes.dex
-base.1=C\:\\Users\\Arpan\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_69319dbf174a6dad132d8a13cf26523e0f5eaf2b
-file.0=C\:\\Users\\Arpan\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0c3ccc82428db76d0ca59fc1b7bcafc347aba5b1\\classes.dex
+#Mon Feb 26 00:26:35 IST 2018
+base.0=C\:\\Users\\Arpan\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_69319dbf174a6dad132d8a13cf26523e0f5eaf2b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Arpan\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0c3ccc82428db76d0ca59fc1b7bcafc347aba5b1\\classes.dex
+base.1=C\:\\Users\\Arpan\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0c3ccc82428db76d0ca59fc1b7bcafc347aba5b1
+file.0=C\:\\Users\\Arpan\\AndroidStudioProjects\\Schedule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_69319dbf174a6dad132d8a13cf26523e0f5eaf2b\\classes.dex
